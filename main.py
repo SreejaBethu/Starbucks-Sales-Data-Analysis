@@ -27,6 +27,13 @@ def visualize_data(df):
     plt.rcParams.update({'font.size': 10})
     fig, axs = plt.subplots(4, 1, figsize=(10, 25))
     plt.subplots_adjust(left=0.1, bottom=0.1, right=0.9, top=0.9, wspace=0.2, hspace=1.2)
+    
+# Create a plot
+plt.plot([1, 2, 3])
+
+# Render the plot in a GitHub README file
+plt.ion()
+plt.show(block=False)
 
     # Histogram
     axs[0].hist(df['12. How would you rate the quality of Starbucks compared to other brands (Coffee Bean, Old Town White Coffee..) to be:'], bins=10, color='skyblue')
