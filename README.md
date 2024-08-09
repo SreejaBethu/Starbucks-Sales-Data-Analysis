@@ -33,13 +33,21 @@ Analyze sales data for Starbucks to identify trends, patterns, and insights that
         **Top-selling subcategories**: Are coffee drinks or iced drinks more popular?
         **Subcategory-wise revenue**: Which subcategories generate the most revenue?
   **Subcategory-wise profit margins**: Which subcategories have the highest profit margins?
+    
     **Product Analysis**: Analyze sales data by product name to identify:
+        
         **Top-selling products**: Which drinks or food items are the most popular?
+        
         **Product-wise revenue**: Which products generate the most revenue?
+       
         **Product-wise profit margins**: Which products have the highest profit margins?
+   
     **Customer Demographics Analysis**: Analyze sales data by customer demographics to identify:
+    
        **Top-selling customer segments**: Are loyalty program members or students more profitable?
+       
         **Segment-wise revenue**: Which customer segments generate the most revenue?
+        
         **Segment-wise profit margins**: Which customer segments have the highest profit margins?
     **Correlation Analysis**: Analyze the correlation between different variables, such as:
         Product price and quantity sold: Do higher-priced products sell less?
